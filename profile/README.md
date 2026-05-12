@@ -2,6 +2,8 @@
 
 TeleTable is an end-to-end system for **autonomous indoor transport** in modern workplaces: a robot (“table”) that can be monitored in real time, driven manually when needed, and dispatched on named routes—backed by a secure backend and multiple client UIs.
 
+https://github.com/user-attachments/assets/96e07a91-e5a7-4cc9-bd32-8661c973a577
+
 ## Mission
 
 Make internal logistics in offices, labs, schools, and shared spaces **safer, faster, and more accessible** by providing a reliable autonomous transport robot with:
